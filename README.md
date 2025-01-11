@@ -1,4 +1,4 @@
-![bloc_spot-2](./frontend/img/bloc_spot-2.gif)
+
 # BLOC HOME
 
 ### Smart Contract Real Estate Application - SMARTER, SECURE & FASTER
